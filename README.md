@@ -174,4 +174,31 @@ sha256sum FILE_NAME
 | `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
 | `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
 | `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
+
+---
+
+<div id="kianmhz--gooserelayvpn"></div>
+
+### Kianmhz--GooseRelayVPN
+
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-darwin-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-darwin-amd64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-linux-arm64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-linux-armv7.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-armv7.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.6.0-windows-arm64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-arm64.zip) |
+| `GooseRelayVPN-server-v1.6.0-darwin-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-darwin-amd64.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-darwin-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-darwin-arm64.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-arm64.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-linux-armv7.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-armv7.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.6.0-windows-arm64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-arm64.zip) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Kianmhz/GooseRelayVPN/SHA256SUMS.txt) |
 <!-- RELEASES_END -->
