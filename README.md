@@ -157,6 +157,22 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
+
+### Hidden-Node--GooseRelayVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-release.aar` | 35.4 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-release.aar) |
+| `GooseRelayVPN-HN-1.0.2-universal-release.apk` | 37.3 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-universal-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-x86-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/SHAMPOO-SIR-E-SEHAT/LRM/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-x86-release.apk) |
+
+---
+
 <div id="karingx--karing"></div>
 
 ### KaringX--karing
